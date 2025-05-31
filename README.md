@@ -34,7 +34,7 @@ Design a portfolio adapted to an environment of increased macroeconomic uncertai
 
 ## 🗂️ Files
 
-- `portfolio_analysis.ipynb` – Full Jupyter notebook
+- `portfolio_analysis-ES.ipynb` – Full Jupyter notebook
 
 ## Authors
 
