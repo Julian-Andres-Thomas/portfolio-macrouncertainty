@@ -1,6 +1,6 @@
 # 📈 Multi-Factor Portfolio Construction under Macroeconomic Uncertainty 
 
-This project was developed as the final assignment for the "Python Applied to Portfolio Management" course. It combines macroeconomic reasoning with quantitative finance techniques to build and analyze a robust investment portfolio.
+This project was developed as the final assignment for the "Python Applied to Portfolio Management" course. It combines macroeconomic reasoning with quantitative finance techniques to build and analyze a defensive investment portfolio.
 
 ## 🎯 Objective
 
