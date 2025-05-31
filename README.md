@@ -36,10 +36,10 @@ Design a portfolio adapted to an environment of increased macroeconomic uncertai
 
 - `portfolio_analysis.ipynb` – Full Jupyter notebook
 
-## 📬 Authors
+## Authors
 
 Julian Andrés & Pablo Domínguez  
-April–June 2025
+May 2025
 
 
 
