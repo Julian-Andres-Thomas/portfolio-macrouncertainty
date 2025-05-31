@@ -1,4 +1,4 @@
-# 📈 Multi-Factor Portfolio Construction under Macroeconomic Uncertainty 
+# Multi-Factor Portfolio Construction under Macroeconomic Uncertainty 
 
 This project was developed as the final assignment for the "Python Applied to Portfolio Management" course. It combines macroeconomic reasoning with quantitative finance techniques to build and analyze a defensive investment portfolio.
 
@@ -18,14 +18,14 @@ Design a portfolio adapted to an environment of increased macroeconomic uncertai
   - Evaluated performance in bull (2020–2021) and bear (2022) markets.
   - Compared expected (ex-ante) and realized (ex-post) returns and volatilities.
 - **Risk modeling**:
-  - 95% 1-month Value at Risk (VaR) via Monte Carlo simulation (100,000 simulations).
+  - 95% confidence level 1-month Value at Risk via Monte Carlo simulation (100,000 simulations).
   - Based on lognormal price dynamics (Black-Scholes assumptions).
 
 ## 📈 Key Results
 
-- The portfolio achieved strong resilience in bear markets, with lower volatility than the market.
-- Sectoral factor regression showed high correlation with the pharmaceutical sector.
-- Monte Carlo VaR indicated a 5% risk of losing more than ~\$52 in 30 days.
+- The portfolio achieved 42% return in bull market and 23% return in bear market.
+- Sectoral factor regression showed strong and statistically significant relationship with the pharmaceutical sector.
+- Monte Carlo VaR indicates a 5% probability of losing more than ~$52 over 1 month horizon.
 
 ## 🛠️ Tools & Libraries
 
@@ -38,7 +38,7 @@ Design a portfolio adapted to an environment of increased macroeconomic uncertai
 
 ## Authors
 
-Julian Andrés & Pablo Domínguez  
+Julian Andres & Pablo Domínguez  
 May 2025
 
 
