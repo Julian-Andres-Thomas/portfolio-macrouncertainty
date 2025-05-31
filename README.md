@@ -25,7 +25,7 @@ Design a portfolio adapted to an environment of increased macroeconomic uncertai
 
 - The portfolio achieved 42% return in bull market and 23% return in bear market.
 - Sectoral factor regression showed strong and statistically significant relationship with the pharmaceutical sector.
-- Monte Carlo VaR indicates a 5% probability of losing more than ~$52 over 1 month horizon.
+- Monte Carlo VaR indicates a 5% probability of losing more than 1.7% of the porfolio's value over 1 month horizon.
 
 ## 🛠️ Tools & Libraries
 
