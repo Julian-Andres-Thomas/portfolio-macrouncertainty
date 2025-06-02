@@ -38,7 +38,7 @@ Design a portfolio adapted to an environment of increased macroeconomic uncertai
 
 ## Authors
 
-Julian Andres & Pablo Domínguez  
+Julian Andres Thomas & Pablo Domínguez  
 May 2025
 
 
