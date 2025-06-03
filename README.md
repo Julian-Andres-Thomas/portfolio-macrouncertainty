@@ -19,7 +19,6 @@ Design a portfolio adapted to an environment of increased macroeconomic uncertai
   - Compared expected (ex-ante) and realized (ex-post) returns and volatilities.
 - **Risk modeling**:
   - 95% confidence level 1-month Value at Risk via Monte Carlo simulation (100,000 simulations).
-  - Based on lognormal price dynamics (Black-Scholes assumptions).
 
 ## 📈 Key Results
 
